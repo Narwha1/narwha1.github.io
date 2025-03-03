@@ -101,7 +101,7 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: GitHub
+  type: git
   repo: 
     github: https://github.com/Narwha1/narwha1.github.io.git
   branch: main
